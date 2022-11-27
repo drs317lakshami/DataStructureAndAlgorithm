@@ -36,3 +36,4 @@ public class BinarySearchWord {
         return -1;
     }
 }
+
